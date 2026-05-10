@@ -1,0 +1,9 @@
+model,spec,period,variable,estimate,se,pvalue,stars,obs,first_stage_F
+OLS,H1,MM 2005-2020,subsidy_x_fueldep_hbsir,-0.1345,0.0517,0.0144,*,5760,NA
+2SLS,H1,MM 2005-2020,fit_subsidy_x_fueldep_hbsir,-1.7192,0.181,0,***,5400,1293.57
+2SLS,H2,MM 2005-2020,fit_subsidy_x_fueldep_c,-1.3664,0.3594,7e-4,***,5400,1512.17
+2SLS,H2,MM 2005-2020,fueldep_c,0.3046,0.1389,0.0364,*,5400,1512.17
+OLS,H1,Full 2005-2022,subsidy_x_fueldep_hbsir,-0.1241,0.0418,0.0059,**,6480,NA
+2SLS,H1,Full 2005-2022,fit_subsidy_x_fueldep_hbsir,-1.3152,0.1149,0,***,6120,1113.26
+2SLS,H2,Full 2005-2022,fit_subsidy_x_fueldep_c,-0.9197,0.3005,0.0047,**,6120,1204.06
+2SLS,H2,Full 2005-2022,fueldep_c,0.1752,0.1041,0.1031,,6120,1204.06
