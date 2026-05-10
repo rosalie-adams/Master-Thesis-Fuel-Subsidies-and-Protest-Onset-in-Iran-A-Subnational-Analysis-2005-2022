@@ -1,0 +1,481 @@
+province,gregorian_year,unemployment_rate
+Ardabil,2005,11.6
+Ardabil,2006,11.1
+Ardabil,2007,11.8
+Ardabil,2008,9.9
+Ardabil,2009,12
+Ardabil,2010,14.2
+Ardabil,2011,12.7
+Ardabil,2012,13.4
+Ardabil,2013,12.3
+Ardabil,2014,11.4
+Ardabil,2015,12.9
+Ardabil,2016,15.3
+Ardabil,2017,10.4
+Ardabil,2018,9.3
+Ardabil,2019,10
+Ardabil,2020,7.4
+Bushehr,2005,12.7
+Bushehr,2006,10.5
+Bushehr,2007,9.3
+Bushehr,2008,19.7
+Bushehr,2009,11.7
+Bushehr,2010,13.3
+Bushehr,2011,11
+Bushehr,2012,11.7
+Bushehr,2013,9.1
+Bushehr,2014,9
+Bushehr,2015,1.7
+Bushehr,2016,11.3
+Bushehr,2017,11
+Bushehr,2018,10.5
+Bushehr,2019,9.9
+Bushehr,2020,9.7
+Chaharmahal and Bakhtiari,2005,11.7
+Chaharmahal and Bakhtiari,2006,12.5
+Chaharmahal and Bakhtiari,2007,12.4
+Chaharmahal and Bakhtiari,2008,14.1
+Chaharmahal and Bakhtiari,2009,16.4
+Chaharmahal and Bakhtiari,2010,13.6
+Chaharmahal and Bakhtiari,2011,13.3
+Chaharmahal and Bakhtiari,2012,10.8
+Chaharmahal and Bakhtiari,2013,10.7
+Chaharmahal and Bakhtiari,2014,14.9
+Chaharmahal and Bakhtiari,2015,16.4
+Chaharmahal and Bakhtiari,2016,20.2
+Chaharmahal and Bakhtiari,2017,20.8
+Chaharmahal and Bakhtiari,2018,17.4
+Chaharmahal and Bakhtiari,2019,15.3
+Chaharmahal and Bakhtiari,2020,15.2
+East Azerbaijan,2005,5.2
+East Azerbaijan,2006,5.3
+East Azerbaijan,2007,7.1
+East Azerbaijan,2008,6.8
+East Azerbaijan,2009,10
+East Azerbaijan,2010,11.7
+East Azerbaijan,2011,8.8
+East Azerbaijan,2012,12.5
+East Azerbaijan,2013,9.6
+East Azerbaijan,2014,7.8
+East Azerbaijan,2015,8.3
+East Azerbaijan,2016,10.8
+East Azerbaijan,2017,10.7
+East Azerbaijan,2018,10.9
+East Azerbaijan,2019,10
+East Azerbaijan,2020,8
+Fars,2005,13.2
+Fars,2006,13.7
+Fars,2007,11.6
+Fars,2008,12.2
+Fars,2009,14.4
+Fars,2010,20.5
+Fars,2011,18.5
+Fars,2012,16.8
+Fars,2013,13.3
+Fars,2014,12.4
+Fars,2015,12.2
+Fars,2016,11.4
+Fars,2017,10.8
+Fars,2018,8.9
+Fars,2019,8
+Fars,2020,7.7
+Gilan,2005,13.7
+Gilan,2006,11.4
+Gilan,2007,12.1
+Gilan,2008,13
+Gilan,2009,15.3
+Gilan,2010,16.7
+Gilan,2011,16.6
+Gilan,2012,15.6
+Gilan,2013,13.6
+Gilan,2014,13.3
+Gilan,2015,11
+Gilan,2016,11.3
+Gilan,2017,10.7
+Gilan,2018,11.4
+Gilan,2019,10.3
+Gilan,2020,9.6
+Golestan,2005,8.7
+Golestan,2006,9
+Golestan,2007,8.9
+Golestan,2008,8.3
+Golestan,2009,7.1
+Golestan,2010,8.5
+Golestan,2011,8.7
+Golestan,2012,8.9
+Golestan,2013,5.8
+Golestan,2014,12.3
+Golestan,2015,11.7
+Golestan,2016,12.6
+Golestan,2017,12.3
+Golestan,2018,9.8
+Golestan,2019,10.9
+Golestan,2020,9.1
+Hamedan,2005,11.2
+Hamedan,2006,13.55
+Hamedan,2007,13.9
+Hamedan,2008,14
+Hamedan,2009,18
+Hamedan,2010,13.9
+Hamedan,2011,12.4
+Hamedan,2012,9.7
+Hamedan,2013,7.7
+Hamedan,2014,7.7
+Hamedan,2015,8.5
+Hamedan,2016,9.5
+Hamedan,2017,10.7
+Hamedan,2018,8.3
+Hamedan,2019,7.3
+Hamedan,2020,8.2
+Hormozgan,2005,10.5
+Hormozgan,2006,7.7
+Hormozgan,2007,9.4
+Hormozgan,2008,8.4
+Hormozgan,2009,6.9
+Hormozgan,2010,11.2
+Hormozgan,2011,11
+Hormozgan,2012,11.5
+Hormozgan,2013,7.3
+Hormozgan,2014,10.3
+Hormozgan,2015,11.9
+Hormozgan,2016,10.3
+Hormozgan,2017,9
+Hormozgan,2018,11.2
+Hormozgan,2019,13.9
+Hormozgan,2020,13.5
+Ilam,2005,15.1
+Ilam,2006,13.6
+Ilam,2007,12.7
+Ilam,2008,14.6
+Ilam,2009,12.6
+Ilam,2010,15.8
+Ilam,2011,15.7
+Ilam,2012,17.3
+Ilam,2013,13.8
+Ilam,2014,11.1
+Ilam,2015,11.6
+Ilam,2016,11.6
+Ilam,2017,11.5
+Ilam,2018,11.2
+Ilam,2019,8.3
+Ilam,2020,6.7
+Isfahan,2005,12.3
+Isfahan,2006,11
+Isfahan,2007,9.6
+Isfahan,2008,9.4
+Isfahan,2009,12
+Isfahan,2010,15.3
+Isfahan,2011,13.2
+Isfahan,2012,13.8
+Isfahan,2013,10.8
+Isfahan,2014,12.4
+Isfahan,2015,13.8
+Isfahan,2016,14.6
+Isfahan,2017,14.4
+Isfahan,2018,13.7
+Isfahan,2019,10.6
+Isfahan,2020,10.9
+Kerman,2005,15
+Kerman,2006,13.4
+Kerman,2007,11.6
+Kerman,2008,9.1
+Kerman,2009,11.9
+Kerman,2010,11
+Kerman,2011,12.1
+Kerman,2012,7.8
+Kerman,2013,6.1
+Kerman,2014,7
+Kerman,2015,7.9
+Kerman,2016,11.5
+Kerman,2017,11.5
+Kerman,2018,11.4
+Kerman,2019,11.2
+Kerman,2020,10.6
+Kermanshah,2005,14.5
+Kermanshah,2006,16.6
+Kermanshah,2007,14.7
+Kermanshah,2008,12.1
+Kermanshah,2009,13.8
+Kermanshah,2010,14.5
+Kermanshah,2011,15.7
+Kermanshah,2012,16.2
+Kermanshah,2013,14.6
+Kermanshah,2014,15.7
+Kermanshah,2015,17.7
+Kermanshah,2016,22
+Kermanshah,2017,21.6
+Kermanshah,2018,18.7
+Kermanshah,2019,15.7
+Kermanshah,2020,14.9
+Khuzestan,2005,13.2
+Khuzestan,2006,12.9
+Khuzestan,2007,11.6
+Khuzestan,2008,12.5
+Khuzestan,2009,13.1
+Khuzestan,2010,14.9
+Khuzestan,2011,10.5
+Khuzestan,2012,12.8
+Khuzestan,2013,13.1
+Khuzestan,2014,9.9
+Khuzestan,2015,10.9
+Khuzestan,2016,12.7
+Khuzestan,2017,14.7
+Khuzestan,2018,15.7
+Khuzestan,2019,14.5
+Khuzestan,2020,13.9
+Kohgiluyeh and Boyer-Ahmad,2005,18.1
+Kohgiluyeh and Boyer-Ahmad,2006,15.6
+Kohgiluyeh and Boyer-Ahmad,2007,17.6
+Kohgiluyeh and Boyer-Ahmad,2008,14.9
+Kohgiluyeh and Boyer-Ahmad,2009,14.8
+Kohgiluyeh and Boyer-Ahmad,2010,13.2
+Kohgiluyeh and Boyer-Ahmad,2011,14.1
+Kohgiluyeh and Boyer-Ahmad,2012,12.3
+Kohgiluyeh and Boyer-Ahmad,2013,16.5
+Kohgiluyeh and Boyer-Ahmad,2014,14.8
+Kohgiluyeh and Boyer-Ahmad,2015,17.7
+Kohgiluyeh and Boyer-Ahmad,2016,13.3
+Kohgiluyeh and Boyer-Ahmad,2017,12.8
+Kohgiluyeh and Boyer-Ahmad,2018,13.3
+Kohgiluyeh and Boyer-Ahmad,2019,10.8
+Kohgiluyeh and Boyer-Ahmad,2020,10.9
+Kurdistan,2005,9.3
+Kurdistan,2006,10.7
+Kurdistan,2007,9.1
+Kurdistan,2008,12.5
+Kurdistan,2009,10.8
+Kurdistan,2010,15.1
+Kurdistan,2011,14
+Kurdistan,2012,14
+Kurdistan,2013,13.6
+Kurdistan,2014,11.6
+Kurdistan,2015,13.3
+Kurdistan,2016,15.2
+Kurdistan,2017,13.7
+Kurdistan,2018,14.6
+Kurdistan,2019,14.4
+Kurdistan,2020,14
+Lorestan,2005,15
+Lorestan,2006,16.2
+Lorestan,2007,17.5
+Lorestan,2008,17.1
+Lorestan,2009,19
+Lorestan,2010,17.3
+Lorestan,2011,19.2
+Lorestan,2012,20.2
+Lorestan,2013,17.1
+Lorestan,2014,14.9
+Lorestan,2015,13.3
+Lorestan,2016,13
+Lorestan,2017,12.5
+Lorestan,2018,13.5
+Lorestan,2019,15.4
+Lorestan,2020,15.2
+Markazi,2005,12.6
+Markazi,2006,12.5
+Markazi,2007,10.4
+Markazi,2008,11.8
+Markazi,2009,11.2
+Markazi,2010,9.7
+Markazi,2011,11
+Markazi,2012,10.4
+Markazi,2013,8.6
+Markazi,2014,7
+Markazi,2015,7.9
+Markazi,2016,7.3
+Markazi,2017,7.9
+Markazi,2018,8.4
+Markazi,2019,8.2
+Markazi,2020,7.4
+Mazandaran,2005,9.8
+Mazandaran,2006,8
+Mazandaran,2007,7.7
+Mazandaran,2008,7.4
+Mazandaran,2009,8.1
+Mazandaran,2010,11.7
+Mazandaran,2011,10.2
+Mazandaran,2012,9.8
+Mazandaran,2013,11
+Mazandaran,2014,12.7
+Mazandaran,2015,12.1
+Mazandaran,2016,11.6
+Mazandaran,2017,10
+Mazandaran,2018,8.5
+Mazandaran,2019,9.4
+Mazandaran,2020,7.5
+North Khorasan,2005,7.1
+North Khorasan,2006,7
+North Khorasan,2007,7.8
+North Khorasan,2008,7.6
+North Khorasan,2009,6.4
+North Khorasan,2010,7.6
+North Khorasan,2011,12.1
+North Khorasan,2012,10.6
+North Khorasan,2013,12.5
+North Khorasan,2014,14.3
+North Khorasan,2015,11.2
+North Khorasan,2016,11.2
+North Khorasan,2017,9.7
+North Khorasan,2018,10.4
+North Khorasan,2019,9.1
+North Khorasan,2020,10.8
+Qazvin,2005,11.1
+Qazvin,2006,10.3
+Qazvin,2007,10.4
+Qazvin,2008,8.4
+Qazvin,2009,12.2
+Qazvin,2010,11.2
+Qazvin,2011,12.4
+Qazvin,2012,12.1
+Qazvin,2013,10.3
+Qazvin,2014,11.9
+Qazvin,2015,11.7
+Qazvin,2016,11.6
+Qazvin,2017,10.7
+Qazvin,2018,11
+Qazvin,2019,9.9
+Qazvin,2020,9.7
+Qom,2005,10.3
+Qom,2006,11.1
+Qom,2007,10.3
+Qom,2008,9.9
+Qom,2009,10.8
+Qom,2010,10.4
+Qom,2011,9.8
+Qom,2012,11.3
+Qom,2013,7.7
+Qom,2014,9.2
+Qom,2015,11.3
+Qom,2016,11.2
+Qom,2017,10.9
+Qom,2018,10.8
+Qom,2019,10.1
+Qom,2020,10
+Razavi Khorasan,2005,9.1
+Razavi Khorasan,2006,8.6
+Razavi Khorasan,2007,8
+Razavi Khorasan,2008,8.3
+Razavi Khorasan,2009,11.2
+Razavi Khorasan,2010,10.6
+Razavi Khorasan,2011,9.1
+Razavi Khorasan,2012,8.7
+Razavi Khorasan,2013,7.9
+Razavi Khorasan,2014,10.8
+Razavi Khorasan,2015,13.3
+Razavi Khorasan,2016,13.2
+Razavi Khorasan,2017,11.4
+Razavi Khorasan,2018,10.7
+Razavi Khorasan,2019,8.3
+Razavi Khorasan,2020,6.2
+Semnan,2005,11.3
+Semnan,2006,10.6
+Semnan,2007,8.4
+Semnan,2008,8.3
+Semnan,2009,9.1
+Semnan,2010,12
+Semnan,2011,10.3
+Semnan,2012,9.6
+Semnan,2013,7.4
+Semnan,2014,11.3
+Semnan,2015,8.5
+Semnan,2016,8.6
+Semnan,2017,7.9
+Semnan,2018,7.2
+Semnan,2019,8.1
+Semnan,2020,7.5
+Sistan and Baluchestan,2005,9.9
+Sistan and Baluchestan,2006,10.9
+Sistan and Baluchestan,2007,12
+Sistan and Baluchestan,2008,11.2
+Sistan and Baluchestan,2009,13.3
+Sistan and Baluchestan,2010,12.1
+Sistan and Baluchestan,2011,9.9
+Sistan and Baluchestan,2012,10.5
+Sistan and Baluchestan,2013,11.4
+Sistan and Baluchestan,2014,10.8
+Sistan and Baluchestan,2015,11.5
+Sistan and Baluchestan,2016,12.9
+Sistan and Baluchestan,2017,12.2
+Sistan and Baluchestan,2018,16
+Sistan and Baluchestan,2019,13.1
+Sistan and Baluchestan,2020,11.4
+South Khorasan,2005,9.7
+South Khorasan,2006,11.1
+South Khorasan,2007,12.7
+South Khorasan,2008,10.1
+South Khorasan,2009,7
+South Khorasan,2010,9.1
+South Khorasan,2011,8.4
+South Khorasan,2012,6.4
+South Khorasan,2013,8
+South Khorasan,2014,7.5
+South Khorasan,2015,8.7
+South Khorasan,2016,10.7
+South Khorasan,2017,11.5
+South Khorasan,2018,8.5
+South Khorasan,2019,6.9
+South Khorasan,2020,6.2
+Tehran,2005,13.6
+Tehran,2006,13
+Tehran,2007,11.3
+Tehran,2008,11
+Tehran,2009,11.9
+Tehran,2010,14.2
+Tehran,2011,15.3
+Tehran,2012,13.25
+Tehran,2013,10.3
+Tehran,2014,10
+Tehran,2015,10.25
+Tehran,2016,12.95
+Tehran,2017,12.5
+Tehran,2018,13.45
+Tehran,2019,11.3
+Tehran,2020,9.35
+West Azerbaijan,2005,8.7
+West Azerbaijan,2006,10
+West Azerbaijan,2007,9.6
+West Azerbaijan,2008,10.3
+West Azerbaijan,2009,10.7
+West Azerbaijan,2010,12.4
+West Azerbaijan,2011,13
+West Azerbaijan,2012,11.1
+West Azerbaijan,2013,9.3
+West Azerbaijan,2014,9.9
+West Azerbaijan,2015,11
+West Azerbaijan,2016,11
+West Azerbaijan,2017,14.3
+West Azerbaijan,2018,14.7
+West Azerbaijan,2019,11.1
+West Azerbaijan,2020,13.2
+Yazd,2005,8
+Yazd,2006,7.4
+Yazd,2007,8.7
+Yazd,2008,6.6
+Yazd,2009,9
+Yazd,2010,9.4
+Yazd,2011,6
+Yazd,2012,10.2
+Yazd,2013,6.5
+Yazd,2014,7.7
+Yazd,2015,11.2
+Yazd,2016,12.8
+Yazd,2017,12.8
+Yazd,2018,13.9
+Yazd,2019,13.3
+Yazd,2020,11.1
+Zanjan,2005,9.5
+Zanjan,2006,11.7
+Zanjan,2007,8.8
+Zanjan,2008,9.5
+Zanjan,2009,8.4
+Zanjan,2010,9.6
+Zanjan,2011,8.4
+Zanjan,2012,11.4
+Zanjan,2013,10
+Zanjan,2014,9.9
+Zanjan,2015,9.7
+Zanjan,2016,9.7
+Zanjan,2017,10.4
+Zanjan,2018,8.5
+Zanjan,2019,8
+Zanjan,2020,7.5
