@@ -1,18 +1,12 @@
-> # =============================================================================
 > # full_panel_appendix.R
   > # Full Panel Analysis (2005-2022) — Appendix B1
-  > # Author: Rosalie Adams (s4835859)
   > # Note: Standalone script — loads all data independently
-  > # =============================================================================
 > 
   > library(tidyverse)
 > library(fixest)
 > library(zoo)
 > library(writexl)
 > 
-  > # =============================================================================
-> # DATEN LADEN
-  > # =============================================================================
 > 
   > brent <- read_csv("~/Desktop/Brent/DCOILBRENTEU (1).csv")
   Rows: 4694 Columns: 2                                                     
