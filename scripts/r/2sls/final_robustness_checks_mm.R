@@ -1,9 +1,5 @@
-# =============================================================================
 # final_robustness_checks_mm.R
 # Robustness Checks — MM-only (2005-2020)
-# Author: Rosalie Adams (s4835859)
-# Note: Run baseline_mm_controls.R first to load panel and objects
-# =============================================================================
 
 library(tidyverse)
 library(fixest)
