@@ -1,17 +1,13 @@
-# =============================================================================
 # baseline_mm_with_controls.R
 # MM-only Baseline (2005-2020) with Controls
-# Author: Rosalie Adams (s4835859)
-# =============================================================================
+
 
 library(writexl)
 library(tidyverse)
 library(fixest)
 library(zoo)
 library(readxl)
-# =============================================================================
-# DATEN LADEN
-# =============================================================================
+
 
 panel_raw <- read_csv("~/Desktop/Panel/panel_2005_2022.csv")
 
